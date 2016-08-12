@@ -1,0 +1,17 @@
+//
+//  PrefixHeader.pch
+//  Gobang
+//
+//  Created by tangwei on 16/8/12.
+//  Copyright © 2016年 tangwei. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+
+#import "Macro.h"
+
+#endif /* PrefixHeader_pch */
